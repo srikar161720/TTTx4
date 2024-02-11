@@ -16,3 +16,6 @@
 ## Credits/Acknowledgments
 > No public libraries or frameworks were used in the creation of this project.
 > The YouTube channel *CodeWithChris* significantly helped me put this project together and figure this out on my own.
+
+## Github Repo
+> [TTTx4: Tic Tac Toe 4x4](https://github.com/srikar161720/TTTx4)
