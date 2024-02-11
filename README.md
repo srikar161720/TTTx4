@@ -1,3 +1,4 @@
+![Tic Tac Tor thumbnail ](UGAHacks thumbnail.jpg)
 # Tic Tac Toe 4x4
 ### UGAHacks 9 Submission
 
